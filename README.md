@@ -48,19 +48,19 @@ The purpose of this project is to provide a practical and user-friendly assistan
 ## 📷 Screenshots
 
 ### 🏠 Home Screen
-![Home](assets/appscreens/home/home.jpg)
+![Home](assets/appscreens/home/home view.png)
 
 ### 📰 News Screens
-![News](assets/appscreens/news/)
+![News](assets/appscreens/news/news view.png)
 
 ### 👥 Your People Screens
-![People](assets/appscreens/people/)
+![People](assets/appscreens/people/people.png)
 
 ### 🚨 Emergency Screen
 ![Emergency](assets/screenshots/emergency.png)
 
 ### 🗺️ Maps Screens
-![Maps](assets/appscreens/maps/)
+![Maps](assets/appscreens/maps/live location.png)
 
 ### 📍 Location Tracking
 ![Tracking](assets/appscreens/maps/savedlocation.png)
@@ -72,7 +72,7 @@ The purpose of this project is to provide a practical and user-friendly assistan
 ![Login](assets/appscreens/auth/login.png)
 
 ### 📝 Notes Screens
-![Notes](assets/appscreens/nots/)
+![Notes](assets/appscreens/notes/notes view.png)
 
 ### 🤖 Memoria Screens
 ![Memoria](assets/appscreens/memoria/)
