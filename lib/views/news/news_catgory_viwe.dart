@@ -1,8 +1,8 @@
 // ignore_for_file: camel_case_types, must_be_immutable
 
 import 'package:flutter/material.dart';
-import '../../components/common/appbar.dart';
-import '../../components/news/newslistbuilder.dart';
+import 'package:memory_mate/components/common/appbar.dart';
+import 'package:memory_mate/components/news/newslistbuilder.dart';
 
 class Catgory_view extends StatelessWidget {
   Catgory_view({super.key, required this.catgoryname});
