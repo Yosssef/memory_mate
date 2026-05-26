@@ -1,8 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-
-import 'news.dart';
-import 'newslist.dart';
+import 'package:memory_mate/components/news/news.dart';
+import 'package:memory_mate/components/news/newslist.dart';
 
 // ignore: must_be_immutable
 class Newslistbuilder extends StatefulWidget {

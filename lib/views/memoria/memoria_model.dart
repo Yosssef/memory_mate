@@ -1,12 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+import 'package:memory_mate/components/common/appbar.dart';
 import 'package:memory_mate/components/memoria/userask.dart';
+
 import 'package:memory_mate/const.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
-import '../../components/common/appbar.dart';
 
 class Modelchatviwe extends StatefulWidget {
   const Modelchatviwe({super.key});

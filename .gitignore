@@ -41,3 +41,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+.dart_tool/
+.packages
+.pub/
+build/
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+.idea/
+.vscode/
