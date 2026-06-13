@@ -54,8 +54,6 @@ Graduation Project — 2024
 
 ---
 
-## 🚀 Getting Started
-
 ```bash
 flutter pub get
 flutter run
